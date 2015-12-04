@@ -11,7 +11,7 @@
 
 ember serve
 
-bash <shell_file.sh> (e.g. ember_build.sh)
+bash *shell_file.sh* (e.g. ember_build.sh)
 
 http://stackoverflow.com/questions/24584013/ember-cli-rundown-using-it-with-laravel-or-other-backend-frameworks
 
